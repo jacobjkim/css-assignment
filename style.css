@@ -1,0 +1,18 @@
+* {
+    font-family: "roboto";
+}
+
+header, footer {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+}
+
+.tophead, .bottomhead {
+    display: flex;
+}
+
