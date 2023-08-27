@@ -27,9 +27,11 @@ header, footer {
 
 .illustrations-text {
     display: flex;
+}
+.info {
+    display: flex;
     flex-direction: column;
 }
-
 img {
     width: 200px;
     height: 200px;
