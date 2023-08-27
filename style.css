@@ -5,8 +5,13 @@
 header, footer {
     background-color: #1F2937;
     display: flex;
+    color: white;
 }
+.tophead.h1 {
+    font-size: 48px;
+    font-weight: 800;
 
+}
 .quote {
     background-color: #E5E7EB;
     display: flex;
@@ -23,5 +28,10 @@ header, footer {
 .illustrations-text {
     display: flex;
     flex-direction: column;
+}
+
+img {
+    width: 200px;
+    height: 200px;
 }
 
