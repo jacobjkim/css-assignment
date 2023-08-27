@@ -1,5 +1,5 @@
 * {
-    font-family: "roboto";
+    font-family: "roboto",;
 }
 
 header, footer {
@@ -14,5 +14,14 @@ header, footer {
 
 .tophead, .bottomhead {
     display: flex;
+}
+
+.container {
+    display: flex;
+}
+
+.illustrations-text {
+    display: flex;
+    flex-direction: column;
 }
 
